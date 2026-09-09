@@ -1,2 +1,2 @@
-# 2025-29_DakshSharma_25SCS1003004699_2_2CSE23
+This repository contains the evaluation deliverables for my 30-Day Summer Internship in C++ Programming at Virtual Works Lab. It includes my final Internship Report, Presentation (PPT), Offer Letter, and Completion Certificate. During this internship, I developed five console-based C++ applications: a Basic Calculator, a Number Guessing Game, a Hotel Management System, a Tic-Tac-Toe Game, and a Contact Management System
 Official submission repository for my 30-Day C++ Programming Summer Internship at Virtual Works Lab. Includes my final report, presentation, and completion certificates.
